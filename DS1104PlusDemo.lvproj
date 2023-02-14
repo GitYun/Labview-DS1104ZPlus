@@ -31,7 +31,6 @@
 		<Item Name="SystemSet.vi" Type="VI" URL="../SystemSet.vi"/>
 		<Item Name="TimebaseSet.vi" Type="VI" URL="../TimebaseSet.vi"/>
 		<Item Name="TriggerSet.vi" Type="VI" URL="../TriggerSet.vi"/>
-		<Item Name="125步进控件.ctl" Type="VI" URL="../125步进控件.ctl"/>
 		<Item Name="CreateUserEvent.vi" Type="VI" URL="../CreateUserEvent.vi"/>
 		<Item Name="Waves.vi" Type="VI" URL="../Waves.vi"/>
 		<Item Name="WavesAsyncCall.vi" Type="VI" URL="../WavesAsyncCall.vi"/>
@@ -295,7 +294,7 @@
 				<Property Name="Source[17].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[17].type" Type="Str">VI</Property>
 				<Property Name="Source[18].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[18].itemID" Type="Ref">/我的电脑/125步进控件.ctl</Property>
+				<Property Name="Source[18].itemID" Type="Ref"></Property>
 				<Property Name="Source[18].type" Type="Str">VI</Property>
 				<Property Name="Source[19].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[19].itemID" Type="Ref">/我的电脑/CreateUserEvent.vi</Property>
